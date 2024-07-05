@@ -1,7 +1,7 @@
 # expasy-automation-analysis
 DNA sequence translation and analysis in batch
 
-This is a simple Perl script for the batch processing of sequencing results using the API of Expasy. The script also contains a simple protein sequence analysis, customized for the research project of Tianqi Guo, PhD Candidate at The Ohio State University.
+This is a simple Perl script for the batch processing of sequencing results using the API of Expasy. The script also contains a simple protein sequence analysis, customized for the research project of Tianqi Guo, then PhD candidate at The Ohio State University.
 
 # How to run the script?
 1. Place the script in the folder that contains your sequencing files.
